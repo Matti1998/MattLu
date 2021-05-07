@@ -57,6 +57,11 @@ h2 {
 	background-color: #6ab47b;
 }
 
+
+#nav li {
+	transition: background .3s;
+}
+
 /***********CONTENT**********/
 
 #content{
