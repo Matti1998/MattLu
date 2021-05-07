@@ -72,10 +72,11 @@ h2 {
 	text-decoration: underline;
 }
 
-#content h3 img{
- width: 400px
-
+element .stile {
+	width: 400px;
 }
+
+
 
 @media only screen and (min-width: 768px) {
 	body{
