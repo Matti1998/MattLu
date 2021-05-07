@@ -59,7 +59,7 @@ h2 {
 /***********CONTENT**********/
 
 #content{
-      width: 300px;
+      width: 600px;
       margin: 30px auto;
 }
 
@@ -70,6 +70,10 @@ h2 {
 #content p a{
 	text-transform: uppercase;
 	text-decoration: underline;
+}
+
+#content h3 img{
+	width: 100px;
 }
 
 @media only screen and (min-width: 768px) {
