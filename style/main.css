@@ -4,7 +4,7 @@
 body {
 	font-family: Corbel, Arial;
 	margin: 0;
-	width: 50%;
+
 }
 
 a {
@@ -73,6 +73,6 @@ h2 {
 	text-decoration: underline;
 }
 
-
-
+#content h3 img{
+	width: 50%;
 }
